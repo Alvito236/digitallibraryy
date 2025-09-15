@@ -14,4 +14,4 @@ Berikut adalah Koleksi yang dimiliki:
 7. [Sadewa & Rembulan](ebook/Sadewa & Rembulan by Berlin Wiga.pdf) - Berlin WIga, (2020)
 8. [Si Anak Pelangi](ebook/Si Anak Pelangi by Tere Liye.pdf) - Tere Liye, (2019)
 9. [Madilog](ebook/tan-malaka-madilog.pdf) - Tan Malaka, (1943)
-10. [Indonesia Menggugat](ebook/soekarno-indonesia-menggugat.pdff) - Soekarno, (1930)
+10. [Indonesia Menggugat](ebook/soekarno-indonesia-menggugat.pdf) - Soekarno, (1930)
