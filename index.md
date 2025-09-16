@@ -16,4 +16,6 @@ Berikut adalah Koleksi yang dimiliki:
 9. [Madilog](ebook/tan-malaka-madilog.pdf) - Tan Malaka (1943)
 10. [Indonesia Menggugat](ebook/soekarno-indonesia-menggugat.pdf) - Soekarno (1930)
 11. [Ringkasan Materi](ebook/Ringkasan Materi_Alvito Praba_096.pdf) - Alvito Praba (13040123140096)
+12. [html](webti/halaman1.html)
+    
 
